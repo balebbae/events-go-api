@@ -1,6 +1,7 @@
 package main
 
 import (
+
 	"github.com/balebbae/events-go-api/db"
 	"github.com/balebbae/events-go-api/routes"
 	"github.com/gin-gonic/gin"
